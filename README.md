@@ -116,7 +116,7 @@ Open supersport.ipynb
 
 If deployed online, access the dashboard here:
 
-    https://your-app-name.streamlit.app
+    https://superstore-dashboard-2nepoxskqznfshsad6jjkt.streamlit.app/
 
 
 ## 📂 Project Structure
